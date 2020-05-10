@@ -1,0 +1,126 @@
+*{
+  margin:0;
+  padding: 0;
+  text-decoration: none;
+}
+
+
+body{
+  background-color:;
+}
+
+header{
+  background-color: #fff;
+  width: 100%;
+  height:100px;
+}
+
+header .header-brand{
+font-family: sans-serif;
+font-size: 24px;
+  color: #111;
+  font-weight: 900;
+  text-transform: uppercase;
+  display: block;
+margin:0 auto;
+text-align: center;
+padding: 20px 0;
+}
+
+
+header nav ul{
+margin: 0 auto;
+display: block;
+width: fit-content;
+
+}
+
+header nav ul li{
+display: inline-block;
+float: left;
+list-style: none;
+padding: 0 16px;
+
+}
+
+
+
+header nav ul li a{
+  font-family: sans-serif;
+  font-size: 16px;
+    color: #111;
+
+
+}
+
+
+.index-banner{
+   width: 100%;
+   height: 85.5vh;
+   background-image:url('20161224182506_IMG_9851.jpg');
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+   display: table;
+
+  }
+
+.vertical-center{
+display: table-cell;
+vertical-align: middle;
+
+}
+
+
+  .index-banner h2{
+
+    font-family: sans-serif;
+  font-size: 60px;
+  color: #fff;
+  text-align: center;
+  font align:center;
+  font-weight: 900;
+  line-height: 70px;
+  text-shadow: 2px 2px 8px #111;
+  }
+
+  .index-banner h1{
+
+    font-family: sans-serif;
+  font-size: 28px;
+  color: #fff;
+  text-align: center;
+  font align:center;
+  font-weight: 100;
+  font-style: italic;
+  text-shadow: 2px 2px 8px #111;
+  line-height: 40px;
+  margin-top: 300px;
+  text-shadow: 2px 2px 8px #111;
+  }
+
+
+.index-boxlink-1{
+margin: 16px 16px 0;
+width: calc(100%-32px);
+height: 100px;
+background-color: #f2f2f2;
+
+
+font-family: sans-serif;
+font-size: 28px;
+color: #111;
+font align:center;
+font-weight: 900;
+
+text-align: center;
+line-height: 40px;
+
+
+
+}
+
+.index-boxlink-1 h3{
+padding-top: 30px;
+
+}
